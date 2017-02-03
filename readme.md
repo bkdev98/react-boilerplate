@@ -1,1 +1,1 @@
-React Time App
+React Boilerplate
